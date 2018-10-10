@@ -9,4 +9,5 @@ that makes it easy for you to deploy, secure,
      with enterprise-grade availability, scalability, 
      and security. The service offers integrations with 
      open-source tools like Kibana and Logstash for 
-     data ingestion and visualization. 
+ 
+     hi data ingestion and visualization. 
